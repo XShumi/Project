@@ -1,0 +1,24 @@
+/*universal selector*/
+*{
+    color:gold;
+}
+
+/*element selector*/
+h1{
+    color:brown;
+}
+
+/*class selector*/
+.h3-class{
+    color:green;
+}
+
+/*id selector*/
+#h4-id{
+    color:blueviolet;
+}
+
+/*attribute selector*/
+a[href]{
+    color:black;
+}
